@@ -1,0 +1,21 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo-weiss-hd.png",
+ "foto": "img/foto-hd-treppe-garten.jpg",
+ "fokus": [
+  0.5,
+  0.5
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#D2307E",
+ "headline": [
+  "BAULEITER",
+  "GALABAU"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Braunschweig · Wolfenbüttel · Salzgitter & Umgebung"
+}

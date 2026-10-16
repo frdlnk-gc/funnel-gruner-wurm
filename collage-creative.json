@@ -1,0 +1,36 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-weiss-hd.png",
+ "fotos": [
+  "img/foto-hd-schwimmteich.jpg",
+  "img/foto-hd-team.jpg",
+  "img/foto-hd-gartenanlage.jpg"
+ ],
+ "fokus": [
+  [
+   0.5,
+   0.5
+  ],
+  [
+   0.5,
+   0.5
+  ],
+  [
+   0.5,
+   0.55
+  ]
+ ],
+ "primary": "#D2307E",
+ "ink": "#1B1B1B",
+ "headline": [
+  "Bauleiter",
+  "GaLaBau"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "ort": "Braunschweig · Wolfenbüttel · Peine",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}

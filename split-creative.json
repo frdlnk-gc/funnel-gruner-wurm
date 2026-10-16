@@ -1,0 +1,45 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-terrasse.jpg",
+  "primary": "#D2307E",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "panel_bg": "#D2307E",
+  "kicker": "WIR SUCHEN IN BRAUNSCHWEIG",
+  "headline": [
+   "Bauleiter GaLaBau",
+   "(m/w/d)"
+  ],
+  "subline": "Unbefristet, mit voll ausgestattetem Firmenwagen.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.55
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-team.jpg",
+  "primary": "#D2307E",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN BRAUNSCHWEIG",
+  "headline": [
+   "Bauleiter GaLaBau (m/w/d)"
+  ],
+  "checkliste": [
+   "Voll ausgestatteter Firmenwagen",
+   "Unbefristeter Arbeitsvertrag",
+   "Keine Montage mit Übernachtung"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.5
+  ]
+ }
+]
