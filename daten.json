@@ -1,0 +1,100 @@
+{
+  "firma": "Gruner & Wurm",
+  "stelle": "Bauleiter GaLaBau (m/w/d)",
+  "ort": "Braunschweig",
+  "plz": "38126",
+  "branche": "galabau",
+  "farbe_primary": "#D2307E",
+  "farbe_secondary": "#008B60",
+  "region_badge": "Braunschweig & Umgebung",
+  "benefit_top": "Voll ausgestatteter Firmenwagen",
+  "benefits": [
+    "Voll ausgestatteter Firmenwagen & Firmenhandy",
+    "Unbefristeter Arbeitsvertrag",
+    "Regelmäßige Lohnerhöhungen & vermögenswirksame Leistungen",
+    "Keine Montageeinsätze mit Übernachtung",
+    "Interne Karrierechancen & Kostenübernahme für Zertifizierungen",
+    "Flache Hierarchien, Firmenfeiern & Betriebsausflüge"
+  ],
+  "aufgaben": [
+    "Du betreust und steuerst unsere Bauprojekte selbstständig – Termine, Baufortschritt und Wirtschaftlichkeit im Blick",
+    "Du teilst Mitarbeiter und Kolonnen ein, führst sie fachlich und entwickelst sie weiter",
+    "Du koordinierst Material, Maschinen, Geräte und Nachunternehmer und behältst den Soll-Ist-Vergleich im Griff",
+    "Du erkennst Zusatzleistungen, bereitest Nachträge vor und stimmst dich mit Auftraggebern, Planern und Lieferanten ab"
+  ],
+  "anforderung": "Ausbildung im GaLaBau mit Weiterbildung zum Meister oder Techniker – oder ein entsprechendes Studium. Dazu mehrjährige Erfahrung in der Bauleitung im GaLaBau und Führerschein Klasse B.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Garten- & Landschaftsbau",
+      "icon": "🌳",
+      "qualifikationen": [
+        {
+          "label": "Meister im GaLaBau",
+          "icon": "🏅"
+        },
+        {
+          "label": "Techniker im GaLaBau",
+          "icon": "📘"
+        },
+        {
+          "label": "Studium (Landschaftsbau o. ä.)",
+          "icon": "🎓"
+        },
+        {
+          "label": "Ausbildung im GaLaBau",
+          "icon": "🌿"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🔄",
+      "qualifikationen": [
+        {
+          "label": "Studium in anderem Fach",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker in anderem Fach",
+          "icon": "📘"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "1886",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "45",
+        "label": "Mitarbeiter"
+      }
+    ],
+    "text": "Gruner & Wurm ist ein inhabergeführtes Unternehmen aus Braunschweig, tätig im Garten-, Landschafts- und Tiefbau. Mit eigener Planung und moderner Technik setzt das Team vielseitige Bauprojekte um – fest in der Region verwurzelt, mit kurzen Entscheidungswegen und Gestaltungsspielraum."
+  },
+  "kunde_tab": "22 Gruner & Wurm",
+  "quelle": "https://gruner-wurm.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Braunschweig"
+  },
+  "hero_bild": "img/hero-team.jpg",
+  "bilder": [
+    "img/f1-team.jpg",
+    "img/f2-schwimmteich.jpg",
+    "img/f3-treppe-garten.jpg",
+    "img/f4-gartenanlage.jpg",
+    "img/f5-terrasse.jpg",
+    "img/f6-oeffentliche-anlage.jpg",
+    "img/f7-villengarten.jpg",
+    "img/f8-holzdeck.jpg"
+  ]
+}
